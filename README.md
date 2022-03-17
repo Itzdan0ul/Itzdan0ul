@@ -3,7 +3,7 @@
 ### About me
 
 - I'm a programming enthusiast.
-- Student UPIICSA-IPN.
+- Student IPN.
 - 💻 Computer Technician.
 - 📚 I love literature.
 
