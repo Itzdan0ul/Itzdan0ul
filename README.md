@@ -14,12 +14,8 @@
 ### Languages and tools
 
 <p align="center">
-  <img alt="C Plus Plus" src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="35" height="35"/>
   <img alt="My SQL" src="https://cdn.svgporn.com/logos/mysql-icon.svg" width="35" height="35"/>
-  <img alt="Python" src="https://cdn.svgporn.com/logos/python.svg" width="35" height="35"/>
-  <img alt="Java" src="https://cdn.svgporn.com/logos/java.svg" width="35" height="35"/>
   <img alt="C Sharp" src="https://cdn.svgporn.com/logos/c-sharp.svg" width="35" height="35"/>
-  <img alt="SQLite" src="https://cdn.svgporn.com/logos/sqlite.svg" width="35" height="35"/>
   <img alt="HTML 5" src="https://cdn.svgporn.com/logos/html-5.svg" width="35" height="35"/>
   <img alt="CSS 3" src="https://cdn.svgporn.com/logos/css-3.svg" width="35" height="35"/>
   <img alt="SASS" src="https://cdn.svgporn.com/logos/sass.svg" width="35" height="35"/>
