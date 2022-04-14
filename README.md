@@ -30,9 +30,6 @@
 
 ### Connect with me
 
-<a href="www.linkedin.com/in/dan-jair-urtiz-lópez-877558233" target="_blank">
+<a href="www.linkedin.com/in/dan-jair-urtiz-lópez-877558233">
   <img alt="Dan's LinkedIn" title="Dan's LinkedIn" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="25" height="25"/>
-</a>
-<a href="" target="_blank">
-  <img alt="Dan's Discord" title="Dan's Discord" src="https://cdn.svgporn.com/logos/discord-icon.svg" width="25" height="25"/>
 </a>
